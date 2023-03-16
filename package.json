@@ -20,7 +20,8 @@
   "homepage": "https://github.com/ADA-Software-Engineering-Program/i-validate-APIservice#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
   },
   "devDependencies": {
     "dotenv": "^16.0.3",
