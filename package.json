@@ -1,0 +1,29 @@
+{
+  "name": "i-validate-apiservice",
+  "version": "1.0.0",
+  "description": "Backend service for i-validate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADA-Software-Engineering-Program/i-validate-APIservice.git"
+  },
+  "author": "0xware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADA-Software-Engineering-Program/i-validate-APIservice/issues"
+  },
+  "homepage": "https://github.com/ADA-Software-Engineering-Program/i-validate-APIservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  }
+}
